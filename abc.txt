@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 66C5-B39B
-
- Directory of C:\Users\omkar\OneDrive\Desktop\Project
-
-13-07-2022  12:29    <DIR>          .
-13-07-2022  12:21    <DIR>          ..
-13-07-2022  12:29                 0 abc.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  112,429,244,416 bytes free
+writing in file.
